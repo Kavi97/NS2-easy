@@ -1,6 +1,10 @@
 # NS2-easy
 You can get the pdf [here](https://github.com/Kavi97/NS2-easy/raw/master/NS2.pdf)
 ----
+Additional links :
+
+1. [Queue types](https://goo.gl/MWEKGo)
+2. [Routing protocol comparison](http://www.ijarcce.com/upload/2013/december/IJARCCE2C-rajesh_COMPARATIVE-FINAL.pdf)
 
 
 ![Alt text](/Images/Slide1.JPG)
